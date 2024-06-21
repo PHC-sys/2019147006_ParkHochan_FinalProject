@@ -9,9 +9,8 @@
 4. 2차 Machine Learning Model 구축 : Random Forest 이용 > Base Model의 Signal의 True/False 여부 판단하는 모델
 
 
-main data : KQ150 분 단위 데이터, 2016-2023년까지의 데이터(사이즈가 너무 커서 압축파일로 올려놓았습니다) \n
-entrance_exit : Base Strategy가 발생시키는 시그널 \n
-tri_barrier : Main Data와 변동성을 기준으로 박스권 생성(일종의 Partition 생성 - 자세한 내용은 생략) \n
-m_labels : 시그널에 대한 True Positive, Negative Positive를 나타내는 Binary Label (Random Forest의 target이 되는 데이터) \n
-
+main data : KQ150 분 단위 데이터, 2016-2023년까지의 데이터(사이즈가 너무 커서 압축파일로 올려놓았습니다)  
+entrance_exit : Base Strategy가 발생시키는 시그널  
+tri_barrier : Main Data와 변동성을 기준으로 박스권 생성(일종의 Partition 생성 - 자세한 내용은 생략)  
+m_labels : 시그널에 대한 True Positive, Negative Positive를 나타내는 Binary Label (Random Forest의 target이 되는 데이터)  
 기타 내용은 PDF 파일 안에 정리해놓았습니다.
