@@ -17,7 +17,7 @@
 4. m_labels : 시그널에 대한 True Positive, Negative Positive를 나타내는 Binary Label (Random Forest의 target이 되는 데이터)  
 
 
-#### Python
+### Python
 1. StocTestFinal : 1차 모델에 대한 벡테스터 객체 구현 > entrance_exit 파일 생성
 2. tb_mlabel_rf : 2차 모델 구현을 위한 전처리(Tripple Barrier, Meta Labeling 진행) > 2차 모델인 Random Forest 구현 > 최종 ROC Curve를 통한 성능 평가
 
