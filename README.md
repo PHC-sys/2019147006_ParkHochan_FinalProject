@@ -1,8 +1,8 @@
 # 2019147006 박호찬_Final Project
-## **프레젠테이션은 Presentation(Base Strategy Boosting with ML).pdf 로 업로드 했습니다.**  
+## **프레젠테이션은 Presentation.pdf 로 업로드 했습니다.**  
 
-## 1차 모델은 Base Strategy에 대한 벡테스터 객체와 그에 필요한 내부, 외부 method를 구현한 .py 파일입니다.
-## 2차 모델은 머신러닝을 활용합니다. 이후 성능 평가를 가시적으로 보이기 위해 .ipynb 파일로 작성했습니다.  
+### 1차 모델은 Base Strategy에 대한 벡테스터 객체와 그에 필요한 내부, 외부 method를 구현한 .py 파일입니다.
+### 2차 모델은 머신러닝을 활용합니다. 이후 성능 평가를 가시적으로 보이기 위해 .ipynb 파일로 작성했습니다.  
 
 ### Abstract: 'Advances in Machine Learning'에 기반한 KOSDAQ 150 지수 데이터를 이용해 백테스팅 엔진 구현  
 
