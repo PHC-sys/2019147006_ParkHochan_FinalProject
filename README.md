@@ -5,7 +5,7 @@
 ### 1차 모델은 Base Strategy에 대한 벡테스터 객체와 그에 필요한 내부, 외부 method를 구현한 .py 파일입니다.
 ### 2차 모델은 머신러닝을 활용합니다. 이후 성능 평가를 가시적으로 보이기 위해 .ipynb 파일로 작성했습니다.  
 
-### Abstract: 'Advances in Machine Learning'에 기반한 KOSDAQ 150 지수 데이터를 이용해 백테스팅 엔진 구현  
+### Abstract: 'Advances in Financial Machine Learning'에 기반한 KOSDAQ 150 지수 데이터를 이용해 백테스팅 엔진 구현  
 
 1. Minute Data(High Frequency Data) 이용
    원래는 KOSPI Tick Data를 이용하여 시간 단위로 나뉘어져 있는 가격 데이터를 거래 금액/거래량 기준으로 재구성 하는 과정이 있었는데(한 차트 바 데이터에 들어가는 정보량을 균등하게 맞춰주는 작업)  
